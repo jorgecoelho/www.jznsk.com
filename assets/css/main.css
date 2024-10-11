@@ -3237,7 +3237,7 @@ input, select, textarea {
 			z-index: -1;
 		}
 
-		@media screen and (min-width: 1700px) {
+		@media screen and (min-width: 1600px) {
 
 			#wrapper > .bg {
 				background-image: url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/sacred.jpg");
@@ -3763,7 +3763,7 @@ input, select, textarea {
 	#main {
 		background-color: #ffffff;
 		position: relative;
-		margin: 0 auto;
+		margin: 100px auto 0 auto;
 		width: calc(100% - 4rem);
 		max-width: 72rem;
 		z-index: 2;
@@ -3810,6 +3810,10 @@ input, select, textarea {
 			}
 
 			@media screen and (max-width: 736px) {
+
+				#main {
+					margin: 300px auto 0 auto;
+				}
 
 				#main > .post {
 					padding: 4rem 2rem 2rem 2rem ;
@@ -3934,6 +3938,7 @@ input, select, textarea {
 
 			}
 
+
 		@media screen and (max-width: 736px) {
 
 			#main > * {
@@ -3946,6 +3951,9 @@ input, select, textarea {
 
 			#main {
 				width: 100%;
+			}
+			#main {
+				margin-top:220px;
 			}
 
 		}
@@ -4735,10 +4743,10 @@ h1 {
     }
 }
 
-
+/* 
 #main {
 	margin-top:50px;
-}
+} */
 
 #main > .post.featured > footer {
 	text-align: left;
