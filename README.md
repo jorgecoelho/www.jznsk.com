@@ -6,6 +6,7 @@ With extensive experience across industries and a proven track record of buildin
 
 Led by a seasoned leader with decades of global expertise, we transform complexity into opportunity by offering refined solutions in Engineering Leadership, Executive Coaching, and Research & Development.
 
+https://www.jznsk.com
 
 hello@jznsk.com
 https://www.linkedin.com/company/jznsk/
